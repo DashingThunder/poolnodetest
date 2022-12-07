@@ -2,5 +2,6 @@
 "name": "🕊peaceANDfreedom🌎",
 "description": "Believe in world peace and freedom",
 "ticker": "PNF",
-"homepage": "https://cryptogenesis.info/"
+"homepage": "https://cryptogenesis.info/",
+"extended": "https://raw.githubusercontent.com/DashingThunder/poolnodetest/main/extended_poolMetaData.json"  
 }
