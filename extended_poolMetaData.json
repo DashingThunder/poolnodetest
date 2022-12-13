@@ -1,3 +1,32 @@
 {
-"verification":" "
+  "info": {
+    "url_png_icon_64x64": "",
+    "url_png_logo": "",
+    "location": "Worldwide",
+    "social": {
+      "twitter_handle": "",
+      "telegram_handle": "",
+      "facebook_handle": "",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "discord_handle": "",
+      "github_handle": ""
+    },
+    "company": {
+      "name": "peaceANDfreedom",
+      "addr": "",
+      "city": "London",
+      "country": "England",
+      "company_id": "",
+      "vat_id": ""
+    },
+    "about": {
+      "me": " peaceANDfreedom believes in world peace and freedom which complements the vision of Cardano Network. We are here to support Cardano Growth and Decentralization",
+      "server": "With state of the art technology, we have secured our Block Producer and Relay Nodes infrastructure and ensure max availability with redundancy across different Geos.",
+      "company": ""
+    },
+    "my-pool-ids": {
+      "0": "f1fc30093604e78c0a60655d3e14fcd7643e79244e6cedb0f45b5ed8"
+    }
+  }
 }
